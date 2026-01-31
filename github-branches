@@ -1,6 +1,8 @@
-  bug-fix-typo
+git branch -a
 * main
-  remotes/origin/HEAD -> origin/main
+  bug-fix-typo
+  bug-fix-revert
   remotes/origin/main
-  remotes/upstream/HEAD -> upstream/main
-  remotes/upstream/main
+  remotes/origin/bug-fix-typo
+  remotes/origin/bug-fix-revert
+
