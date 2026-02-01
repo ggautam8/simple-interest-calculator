@@ -1,4 +1,4 @@
-curl -u ggautam8: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 -X POST https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks > forked-repo
+curl -u ggautam8:<GITHUB TOKEN> -X POST https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks > forked-repo
 
 % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
